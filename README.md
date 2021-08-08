@@ -1,2 +1,0 @@
-# clon-instagram-django
-
